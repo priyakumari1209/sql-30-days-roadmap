@@ -12,7 +12,7 @@
 ```
 
 ### 🚀 **Master SQL in 30 Days** 🚀
-*From Zero to Database Hero with Hands-on Practice*
+
 
 **`🎯 LEARN` • `💻 PRACTICE` • `🏆 MASTER`**
 
