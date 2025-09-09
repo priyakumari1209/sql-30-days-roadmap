@@ -80,15 +80,7 @@ sql-30-days/
 │   └── solutions.sql     # Check answers
 ├── day_002_filtering/
 └── ... (30 days total)
-```
 
-### **Daily Routine:**
-1. **Read** theory (15 min)
-2. **Load** sample data (5 min)  
-3. **Practice** exercises (60-120 min)
-4. **Review** solutions (15 min)
-
----
 
 ## 🏆 **Achievement Levels**
 
@@ -101,33 +93,6 @@ sql-30-days/
 | 👑 **SQL Master** | 30 | Complete mastery |
 
 ---
-
-## 🛠️ **Recommended Tools**
-
-**Databases:**
-- 🥇 **PostgreSQL** (most recommended)
-- 🥈 **MySQL** (beginner-friendly)
-- 🥉 **SQLite** (lightweight)
-
-**Editors:**
-- VS Code + SQL extensions
-- Online: DB Fiddle, SQLFiddle
-- Professional: DataGrip
-
----
-
-## 💡 **Success Tips**
-
-✅ **Practice daily** - consistency beats intensity  
-✅ **Type code manually** - no copy-paste  
-✅ **Make mistakes** - they help you learn  
-✅ **Use real data** - makes it interesting  
-✅ **Review regularly** - reinforce learning  
-
----
-
-## 🤝 **Get Help**
-
 - **Issues** - Technical questions
 - **Discussions** - Chat with learners
 - **Community** - Join our Discord
@@ -137,11 +102,5 @@ sql-30-days/
 <div align="center">
 
 ### 🌟 **Ready to Become an SQL Expert?** 🌟
-
-1. ⭐ **Star this repo**
-2. 📥 **Clone/download** materials
-3. 📅 **Start Day 1** today!
-
-**Let's master SQL together! 🚀**
 
 </div>
